@@ -1,6 +1,6 @@
 {
   "name": "@mihail-i4v/test-gh-packages",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Test GH Packages",
   "main": "index.js",
   "scripts": {
